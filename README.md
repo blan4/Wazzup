@@ -11,7 +11,7 @@ Therefore it's quite possible to carry out so-called "The mafia fraud".
 
 #Requirements
 
-1) Wazzup site - phishing clone of the original site.
+1) Wazzup site - fishing clone of the original site.
 2) Selenium web driver to extract QR-code from the original WhatsApp
 3) Profit!
 
